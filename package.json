@@ -1,0 +1,34 @@
+{
+  "name": "@sibi-predigle/microt",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^12.2.0",
+    "@angular/core": "^12.2.0"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  },
+  "repository": {
+    "url": "git://github.com/sibi-predigle/test-micros.git"
+  },
+  "main": "bundles/micros.umd.js",
+  "module": "fesm2015/micros.js",
+  "es2015": "fesm2015/micros.js",
+  "esm2015": "esm2015/micros.js",
+  "fesm2015": "fesm2015/micros.js",
+  "typings": "micros.d.ts",
+  "sideEffects": false,
+  "description": "This library was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.0.",
+  "bugs": {
+    "url": "https://github.com/sibi-predigle/test-micros/issues"
+  },
+  "homepage": "https://github.com/sibi-predigle/test-micros#readme",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sibi",
+  "license": "ISC"
+}

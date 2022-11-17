@@ -1,0 +1,9 @@
+/*
+ * Public API Surface of micros
+ */
+export * from './lib/micros.service';
+export * from './lib/micros.component';
+export * from './lib/micros.module';
+export { C1Component } from './lib/c1/c1.component';
+export { C2Component } from './lib/c2/c2.component';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHVibGljLWFwaS5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3Byb2plY3RzL21pY3Jvcy9zcmMvcHVibGljLWFwaS50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTs7R0FFRztBQUVILGNBQWMsc0JBQXNCLENBQUM7QUFDckMsY0FBYyx3QkFBd0IsQ0FBQztBQUN2QyxjQUFjLHFCQUFxQixDQUFDO0FBRXBDLE9BQU8sRUFBRSxXQUFXLEVBQUUsTUFBTSx1QkFBdUIsQ0FBQztBQUNwRCxPQUFPLEVBQUUsV0FBVyxFQUFFLE1BQU0sdUJBQXVCLENBQUMiLCJzb3VyY2VzQ29udGVudCI6WyIvKlxuICogUHVibGljIEFQSSBTdXJmYWNlIG9mIG1pY3Jvc1xuICovXG5cbmV4cG9ydCAqIGZyb20gJy4vbGliL21pY3Jvcy5zZXJ2aWNlJztcbmV4cG9ydCAqIGZyb20gJy4vbGliL21pY3Jvcy5jb21wb25lbnQnO1xuZXhwb3J0ICogZnJvbSAnLi9saWIvbWljcm9zLm1vZHVsZSc7XG5cbmV4cG9ydCB7IEMxQ29tcG9uZW50IH0gZnJvbSAnLi9saWIvYzEvYzEuY29tcG9uZW50JztcbmV4cG9ydCB7IEMyQ29tcG9uZW50IH0gZnJvbSAnLi9saWIvYzIvYzIuY29tcG9uZW50JztcbiJdfQ==
